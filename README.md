@@ -5,7 +5,7 @@
 Olá! Sou o Leonardo K. Luz.
 
 Desenvolvi este projeto da empresa fictícia BikCraft durante o curso de HTML & CSS para Iniciantes
-da plataforma oline [Origamid](https://www.origamid.com/). Este projeto conta com as seguintes páginas.
+da plataforma online [Origamid](https://www.origamid.com/). Este projeto conta com as seguintes páginas.
 
 - Bicicletas
     - Nimbus Stark
@@ -31,6 +31,6 @@ da plataforma oline [Origamid](https://www.origamid.com/). Este projeto conta co
 
 ## Como Acessar
 
-Para acessar o site *BikCraft* deve acessar o link a seguir. 
+Para acessar o site *BikCraft* clique no link a seguir. 
 
 **Site:** [BikCraft](https://leonardoklestadtluz.github.io/bikcraft/)
